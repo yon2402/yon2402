@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=QA+%26+Testing+Engineer;Cybersecurity+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="TU_LINK_DEL_GIF_AQUI.gif" width="400" alt="Blue Lock - Isagi" />
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mí
