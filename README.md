@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! Soy yon 👋</h1>
-<h3 align="center">The Software Engineer in Process 🚀</h3>
+<h1 align="center">¡Hola! Soy yon </h1>
+<h3 align="center">The Software Engineer in Process </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=QA+%26+Testing+Engineer;Cybersecurity+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
@@ -45,8 +45,8 @@
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 🧪 **[TestForge](https://github.com/yon2402/TestForge)** | Plataforma de testing todo en uno: pruebas de API, UI (Playwright), carga/estrés y seguridad (OWASP ZAP), con reportes unificados y CLI para CI/CD. |
-| 🔐 **[keylogger](https://github.com/yon2402/keylogger)** | Proyecto personal para aprender fundamentos de ciberseguridad. |
+|  **[TestForge](https://github.com/yon2402/TestForge)** | Plataforma de testing todo en uno: pruebas de API, UI (Playwright), carga/estrés y seguridad (OWASP ZAP), con reportes unificados y CLI para CI/CD. |
+|  **[keylogger](https://github.com/yon2402/keylogger)** | Proyecto personal para aprender fundamentos de ciberseguridad. |
 
 ---
 
