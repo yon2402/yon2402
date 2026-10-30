@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="TU_LINK_DEL_GIF_AQUI.gif" width="400" alt="Blue Lock - Isagi" />
+  <img src="https://giphy.com/gifs/H8bzCgnzMVgWs" width="400" alt="Blue Lock - Isagi" />
 </p>
 
 ---
